@@ -7,7 +7,7 @@
     * *solid*.
     * *dotted*.
     * *dashed*.
-  + Cor da borda.
+  * Cor da borda.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
