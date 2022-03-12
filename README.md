@@ -6,7 +6,7 @@
   * Tipo de borda.
     * *solid*.
     * *dotted*.
-    - *dashed*.
+    * *dashed*.
   + Cor da borda.
 
 <!-- TABLE OF CONTENTS -->
