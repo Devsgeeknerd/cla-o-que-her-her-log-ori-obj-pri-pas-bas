@@ -4,7 +4,7 @@
 * Bordas usa três atributos:
   * Grossura da borda.
   * Tipo de borda.
-    - *solid*.
+    * *solid*.
     - *dotted*.
     - *dashed*.
   + Cor da borda.
