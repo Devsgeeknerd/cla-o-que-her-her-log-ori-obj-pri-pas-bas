@@ -5,7 +5,7 @@
   * Grossura da borda.
   * Tipo de borda.
     * *solid*.
-    - *dotted*.
+    * *dotted*.
     - *dashed*.
   + Cor da borda.
 
